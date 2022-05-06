@@ -2,11 +2,11 @@
 
 ## Clean UP
 ### remove old fw commands
-- [/] count
-- [/] beeify
-- [/] raidpoll
+- [x] count
+- [x] beeify
+- [x] raidpoll
 ### refactor progect to store code in modules
-- [/]
+- [x]
 ### SQL FIX UP OMG LAST TIME ISTG
 - [ ]
 
